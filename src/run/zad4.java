@@ -1,4 +1,4 @@
-public class zad4 {
+/*public class zad4 {
 
     public static void main(String[] args) {
 
@@ -14,6 +14,14 @@ public class zad4 {
         }
     }
 
+    static void crc32(String text) {
+        int crc = -1;
+        for (int i = 0; i<text.length(); i++){
+            int codePointAti = Character.codePointAt(text, i);
+            int code = codePointAti;
+            crc = CRC_TABLE[(code^crc)&0xFF]^(crc>>>8);
+        }
+        return (-1^crc)>>>0;
+    }
 
-
-}
+}*/
