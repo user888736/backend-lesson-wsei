@@ -1,3 +1,5 @@
+package run;
+
 import java.time.*;
 public class zad5 {
 

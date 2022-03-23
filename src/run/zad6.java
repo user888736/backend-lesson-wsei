@@ -1,3 +1,5 @@
+package run;
+
 import java.io.*;
 
 public class zad6 {

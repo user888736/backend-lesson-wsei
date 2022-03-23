@@ -1,3 +1,5 @@
+package run;
+
 import java.io.FileInputStream;
 
 public class zad1 {

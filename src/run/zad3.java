@@ -1,3 +1,5 @@
+package run;
+
 public class zad3 {
     private static int searchIndex(int[] array, int value){
         int index = 0;

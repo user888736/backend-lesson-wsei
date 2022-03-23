@@ -1,3 +1,5 @@
+package run;
+
 public class zad4 {
 
     public static class Kraslaw {
