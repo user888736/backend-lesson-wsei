@@ -7,10 +7,51 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="codehaus.jackson.mapper.asl" level="project" />
-    <orderEntry type="library" name="codehaus.jackson.xc" level="project" />
-    <orderEntry type="library" name="fasterxml.storemate.shared" level="project" />
-    <orderEntry type="library" name="jackson.lgpl" level="project" />
+    <orderEntry type="module-library">
+      <library name="codehaus.jackson.mapper.asl" type="repository">
+        <properties maven-id="org.codehaus.jackson:jackson-mapper-asl:1.9.9" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jackson-mapper-asl-1.9.9.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/jackson-core-asl-1.9.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="codehaus.jackson.xc" type="repository">
+        <properties maven-id="org.codehaus.jackson:jackson-xc:1.9.13" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jackson-xc-1.9.13.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/jackson-core-asl-1.9.13.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/jackson-mapper-asl-1.9.13.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="fasterxml.storemate.shared" type="repository">
+        <properties maven-id="com.fasterxml.storemate:storemate-shared:1.1.2" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/storemate-shared-1.1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/compress-lzf-1.0.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/junit-4.8.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="repository">
+        <properties maven-id="jackson:jackson-lgpl:0.9.3" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jackson-lgpl-0.9.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
     <orderEntry type="library" name="jackson-core-2.13.2" level="project" />
     <orderEntry type="library" name="jackson-databind-2.11.3" level="project" />
     <orderEntry type="library" name="jackson-annotations-2.13.2" level="project" />
