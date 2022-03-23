@@ -7,5 +7,12 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="codehaus.jackson.mapper.asl" level="project" />
+    <orderEntry type="library" name="codehaus.jackson.xc" level="project" />
+    <orderEntry type="library" name="fasterxml.storemate.shared" level="project" />
+    <orderEntry type="library" name="jackson.lgpl" level="project" />
+    <orderEntry type="library" name="jackson-core-2.13.2" level="project" />
+    <orderEntry type="library" name="jackson-databind-2.11.3" level="project" />
+    <orderEntry type="library" name="jackson-annotations-2.13.2" level="project" />
   </component>
 </module>

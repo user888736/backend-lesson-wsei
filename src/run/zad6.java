@@ -19,7 +19,7 @@ public class zad6 {
 
 
             for(int i = 0; i < splitText.length; i++) {
-                System.out.println(i +1  + " " + splitText[i]);
+                System.out.println(i +1  + "." + splitText[i]);
             }
 
         } catch (IOException e) {
