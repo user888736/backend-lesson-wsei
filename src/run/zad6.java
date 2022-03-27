@@ -6,7 +6,7 @@ public class zad6 {
 
     static void splitText() throws IOException {
 
-        BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\user\\IdeaProjects\\backend-lesson-wsei\\src\\run\\text.txt"));
+        BufferedReader br = new BufferedReader(new FileReader("D:\\Users\\szymon.kwasniewski\\IdeaProjects\\zad3\\src\\run\\text.txt"));
         try {
             StringBuilder sb = new StringBuilder();
             String line = br.readLine();
