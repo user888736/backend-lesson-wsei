@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df1509f4-efdc-4d86-810f-061f649a0e1c" name="Changes" comment="Another Fix">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/codehaus_jackson_mapper_asl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/codehaus_jackson_xc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/fasterxml_storemate_shared.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jackson_annotations_2_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jackson_core_2_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jackson_databind_2_11_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jackson_lgpl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/compress-lzf-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jackson-annotations-2.13.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jackson-core-2.13.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jackson-core-asl-1.9.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jackson-core-asl-1.9.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jackson-databind-2.11.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jackson-lgpl-0.9.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jackson-mapper-asl-1.9.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jackson-mapper-asl-1.9.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jackson-xc-1.9.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/junit-4.8.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/storemate-shared-1.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/run/BONUS_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/run/BONUS_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/run/BONUS_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/run/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/run/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/run/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/run/zad1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/run/zad2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/run/zad3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/run/zad4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/run/zad5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/run/zad6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/run/zad7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/run/zad8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zad3.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="26Tay6oGrZTV63lzZSmPwqwXQMq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="corretto-11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/zad-lab1" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.zad4$Kraslaw (1)">
+    <configuration name="zad4$Kraslaw (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="run.zad4$Kraslaw" />
+      <module name="zad3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="run.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad4$Kraslaw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad4$Kraslaw" />
+      <module name="zad3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad7 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="run.zad7" />
+      <module name="zad3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="run.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad7" />
+      <module name="zad3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad8" />
+      <module name="zad3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.zad7" />
+      <item itemvalue="Application.zad8" />
+      <item itemvalue="Application.zad4$Kraslaw" />
+      <item itemvalue="Application.zad7 (1)" />
+      <item itemvalue="Application.zad4$Kraslaw (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.zad4$Kraslaw (1)" />
+        <item itemvalue="Application.zad7 (1)" />
+        <item itemvalue="Application.zad4$Kraslaw" />
+        <item itemvalue="Application.zad8" />
+        <item itemvalue="Application.zad7" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df1509f4-efdc-4d86-810f-061f649a0e1c" name="Changes" comment="" />
+      <created>1647450281896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647450281896</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added zad 1, 2 and 4">
+      <created>1647456368489</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647456368489</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added zad 5,6,7. zad 7 not working yet.">
+      <created>1647968915212</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647968915212</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Everything done.">
+      <created>1648062001537</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648062001537</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fix">
+      <created>1648062143956</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648062143956</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Another Fix">
+      <created>1648062297458</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1648062297458</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="added zad 1, 2 and 4" />
+    <MESSAGE value="added zad 5,6,7. zad 7 not working yet." />
+    <MESSAGE value="Everything done." />
+    <MESSAGE value="Fix" />
+    <MESSAGE value="Another Fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Another Fix" />
+  </component>
+</project>
