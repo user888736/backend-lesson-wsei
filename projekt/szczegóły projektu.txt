@@ -1,0 +1,7 @@
+Aplikacja do zarządzania listą użytkowników biblioteki, książek oraz pracowników z logowaniem
+
+1. Utworzenie projektu,
+2. Dostosowanie środowiska SpringBoot,
+3. Utworzenie bazy danych mySQL,
+4. Podpięcie bazy danych do palikacji,
+5. Utworzenie tabel,
