@@ -15,6 +15,13 @@ public class CustomerServiceImpl implements CustomerService{
 	
 	
 	
+	public CustomerServiceImpl(CustomerRepository customerRepository) {
+		super();
+		this.customerRepository = customerRepository;
+	}
+
+
+
 	@Override
 	public List<Customer> getAllCustomers(){
 		

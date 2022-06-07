@@ -15,7 +15,7 @@ public class CustomerController {
 		this.customerService = customerService;
 	}
 	
-	@GetMapping("/Customers")
+	@GetMapping("/customers")
 	public String listCustomers(Model model) {
 		model.addAttribute("customers", customerService.getAllCustomers());
 		return "customers";

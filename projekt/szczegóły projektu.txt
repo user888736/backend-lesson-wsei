@@ -3,7 +3,9 @@ Aplikacja do zarządzania listą klientów biblioteki, książek oraz pracownik�
 1. Utworzenie projektu,
 2. Dostosowanie środowiska SpringBoot,
 3. Utworzenie bazy danych mySQL,
-4. Podpięcie bazy danych do palikacji,
+4. Podpięcie bazy danych do alikacji,
 5. Utworzenie obsługi tabeli klientów,
-6. Implementacja funkcjonalności w postacji wyświetlania listy klientów,
-7. 
+6. Utworzenie front endu aplikacji,
+7. Podstawowe testy działania aplikacji,
+8. Implementacja funkcjonalności w postacji wyświetlania listy klientów,
+9. 
