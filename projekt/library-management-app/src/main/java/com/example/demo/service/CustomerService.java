@@ -1,5 +1,9 @@
 package com.example.demo.service;
 
-public interface CustomerService {
+import java.util.List;
 
+import com.example.demo.entity.Customer;
+
+public interface CustomerService {
+List<Customer> getAllCustomers();
 }
