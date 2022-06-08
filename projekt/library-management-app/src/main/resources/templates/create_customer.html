@@ -11,7 +11,7 @@
 			<div class = "col-lg-6 col-md-6 col-sm6 container justify-content-center card">
 				<h1 class = "text-center">Dodaj nowego Klienta</h1>
 				<div class = "card-body">
-					<from th:action="@{/customers}" th:object = "${customer}" method="POST">
+					<form th:action="@{/customers}" th:object = "${customer}" method="POST">
 						<div class = "form-group">
 							<label>Imię:</label>
 							<input 
@@ -42,12 +42,12 @@
 							placeholder="Tutaj wpisz adres mailowy klienta"/>
 						</div>
 						
-						<div class = "footer">
+						<div class = "box-footer">
 							<button type="submit" class = "btn btn-primary">
 							Dodaj
 							</button>
 						</div>
-					</from>
+					</form>
 				</div>
 			</div>
 		</div>
