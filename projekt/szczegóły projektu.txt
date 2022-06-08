@@ -11,4 +11,5 @@ Aplikacja do zarządzania listą klientów biblioteki, książek oraz pracownik�
 9. Implementacja funkcjonalności w postacji wyświetlania listy klientów,
 10. Testy wyświetlania listy klientów,
 11. Implementacja funkcjonalności w postaci dodawania rekordów do bazy z poziomu klienta,
-12. 
+12. Implementacja funkcjonalności w postaci edytowania rekordów w bazie danych z poziomu klienta,
+13. 

@@ -56,6 +56,10 @@
 					<td th:text = "${customer.firstName}"></td>
 					<td th:text = "${customer.lastName}"></td>
 					<td th:text = "${customer.email}"></td>
+					<td>
+					<a th:href = "@{/customers/edit/{id}(id=${customer.id})}"
+						class = "btn btn-primary"> Edytuj
+					</a></td>
 				</tr>
 			</tbody>
 		</table>
