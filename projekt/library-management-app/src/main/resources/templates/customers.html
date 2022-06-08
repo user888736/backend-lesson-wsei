@@ -58,7 +58,9 @@
 					<td th:text = "${customer.email}"></td>
 					<td>
 					<a th:href = "@{/customers/edit/{id}(id=${customer.id})}"
-						class = "btn btn-primary"> Edytuj
+						class = "btn btn-success" style="margin:5px;"> Edytuj
+					<a th:href = "@{/customers/{id}(id=${customer.id})}"
+						class = "btn btn-danger"> Usuń	
 					</a></td>
 				</tr>
 			</tbody>

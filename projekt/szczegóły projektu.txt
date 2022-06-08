@@ -10,6 +10,7 @@ Aplikacja do zarządzania listą klientów biblioteki, książek oraz pracownik�
 8. Dodanie przykładowych rekordów do testów,
 9. Implementacja funkcjonalności w postacji wyświetlania listy klientów,
 10. Testy wyświetlania listy klientów,
-11. Implementacja funkcjonalności w postaci dodawania rekordów do bazy z poziomu klienta,
-12. Implementacja funkcjonalności w postaci edytowania rekordów w bazie danych z poziomu klienta,
-13. 
+11. Implementacja funkcjonalności w postaci dodawania rekordów do bazy z poziomu UI klienta,
+12. Implementacja funkcjonalności w postaci edytowania rekordów w bazie danych z poziomu UI klienta,
+13. Implementacja funkcjonalności w postaci usuwania rekordów w bazie danych z poziomu UI klienta,
+14. 

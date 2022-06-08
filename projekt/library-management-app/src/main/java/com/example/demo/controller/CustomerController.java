@@ -58,4 +58,10 @@ public class CustomerController {
 		customerService.updateCustomer(existingCustomer);
 		return "redirect:/customers";
 	}
+	
+	@GetMapping("/customers/{id}")
+	public String deleteCustomer(@PathVariable Long id) {
+		customerService.deleteCustomerById(id);
+		return "redirect:/customers";
+	}
 }
