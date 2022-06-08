@@ -7,5 +7,8 @@ Aplikacja do zarządzania listą klientów biblioteki, książek oraz pracownik�
 5. Utworzenie obsługi tabeli klientów,
 6. Utworzenie front endu aplikacji,
 7. Podstawowe testy działania aplikacji,
-8. Implementacja funkcjonalności w postacji wyświetlania listy klientów,
-9. 
+8. Dodanie przykładowych rekordów do testów,
+9. Implementacja funkcjonalności w postacji wyświetlania listy klientów,
+10. Testy wyświetlania listy klientów,
+11. Implementacja funkcjonalności w postaci dodawania rekordów do bazy z poziomu klienta,
+12. 

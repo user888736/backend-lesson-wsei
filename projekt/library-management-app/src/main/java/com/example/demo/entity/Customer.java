@@ -16,7 +16,7 @@ public class Customer {
 	private Long id;
 	
 	@Column(name = "first_name", nullable = false)
-	private String fistName;
+	private String firstName;
 	
 	@Column(name = "last_name")
 	private String lastName;
@@ -28,9 +28,9 @@ public class Customer {
 		
 	}
 	
-	public Customer(String fistName, String lastName, String email) {
+	public Customer(String firstName, String lastName, String email) {
 		super();
-		this.fistName = fistName;
+		this.firstName = firstName;
 		this.lastName = lastName;
 		this.email = email;
 	}
@@ -41,11 +41,11 @@ public class Customer {
 	public void setId(Long id) {
 		this.id = id;
 	}
-	public String getFistName() {
-		return fistName;
+	public String getFirstName() {
+		return firstName;
 	}
-	public void setFistName(String fistName) {
-		this.fistName = fistName;
+	public void setFirstName(String firstName) {
+		this.firstName = firstName;
 	}
 	public String getLastName() {
 		return lastName;
