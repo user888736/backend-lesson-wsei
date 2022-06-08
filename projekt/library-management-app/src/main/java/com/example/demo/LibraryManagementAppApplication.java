@@ -20,14 +20,14 @@ public class LibraryManagementAppApplication implements CommandLineRunner{
 	
 	@Override
 	public void run(String... args) throws Exception{
-		Customer customer1 = new Customer("Anna", "Walczak", "a.walczak@email.pl");
+		/*Customer customer1 = new Customer("Anna", "Walczak", "a.walczak@email.pl");
 		customerRepository.save(customer1);
 		
 		Customer customer2 = new Customer("Adam", "Kowalski", "adamkowalski1@email.pl");
 		customerRepository.save(customer2);
 		
 		Customer customer3 = new Customer("Michał", "Testowy", "michalt@email.pl");
-		customerRepository.save(customer3);
+		customerRepository.save(customer3);*/
 	}
 
 }
