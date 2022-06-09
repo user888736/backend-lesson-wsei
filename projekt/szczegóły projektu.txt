@@ -13,4 +13,7 @@ Aplikacja do zarządzania listą klientów biblioteki, książek oraz pracownik�
 11. Implementacja funkcjonalności w postaci dodawania rekordów do bazy z poziomu UI klienta,
 12. Implementacja funkcjonalności w postaci edytowania rekordów w bazie danych z poziomu UI klienta,
 13. Implementacja funkcjonalności w postaci usuwania rekordów w bazie danych z poziomu UI klienta,
-14. 
+14. Dodanie drugiej tabeli do bazy danych w celu obsługi listy pracowników w aplikacji,
+15. Dodanie trzeciej tabeli do bazy danych w celu obsługi listy książek w aplikacji,
+16. Dodanie czwartej tabeli do bazy danych w celu obsługi kont użytkowników,
+17. Dodanie obsługi logowania do aplikacji w celu dokonywania zmian.
