@@ -8,6 +8,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import com.example.demo.entity.Customer;
 import com.example.demo.repository.CustomerRepository;
 
+import com.example.demo.entity.Employee;
+import com.example.demo.repository.EmployeeRepository;
+
+import com.example.demo.entity.Book;
+import com.example.demo.repository.BookRepository;
+
 @SpringBootApplication
 public class LibraryManagementAppApplication implements CommandLineRunner{
 
@@ -17,6 +23,10 @@ public class LibraryManagementAppApplication implements CommandLineRunner{
 	
 	@Autowired
 	private CustomerRepository customerRepository;
+	@Autowired
+	private EmployeeRepository employeeRepository;
+	@Autowired
+	private BookRepository bookRepository;
 	
 	@Override
 	public void run(String... args) throws Exception{
