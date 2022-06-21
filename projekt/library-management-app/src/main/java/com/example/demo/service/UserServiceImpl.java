@@ -1,4 +1,4 @@
-package com.example.demo.service.impl;
+package com.example.demo.service;
 
 import java.util.Arrays;
 import java.util.Collection;
@@ -15,7 +15,6 @@ import org.springframework.stereotype.Service;
 import com.example.demo.entity.Role;
 import com.example.demo.entity.User;
 import com.example.demo.repository.UserRepository;
-import com.example.demo.service.UserService;
 import com.example.demo.web.dto.UserRegistrationDto;
 
 @Service
@@ -52,7 +51,7 @@ public class UserServiceImpl implements UserService {
 			throw new UsernameNotFoundException("Nieprawudłowa nazwa użytkownika lub hasło.");
 		}
 		
-		return new org.springframework.security.core.userdetails.User(user.getEmail(), user.getPassword(), null);
+		return new org.springframework.security.core.userdetails.User(user.getEmail(), user.getPassword(), mapRolesToAuthorities(user.getRoles()));
 	}
 	
 	private Collection<? extends GrantedAuthority> mapRolesToAuthorities(Collection<Role> roles){
