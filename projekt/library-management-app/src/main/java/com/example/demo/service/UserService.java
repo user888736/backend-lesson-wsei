@@ -1,5 +1,8 @@
 package com.example.demo.service;
 
-public interface UserService {
+import com.example.demo.entity.User;
+import com.example.demo.web.dto.UserRegistrationDto;
 
+public interface UserService {
+	User save(UserRegistrationDto registrationDto);
 }
