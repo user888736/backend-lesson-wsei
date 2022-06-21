@@ -21,7 +21,7 @@ import com.example.demo.web.dto.UserRegistrationDto;
 @Service
 public class UserServiceImpl implements UserService {
 	
-	
+	@Autowired
 	private UserRepository userRepository;
 	
 	@Autowired

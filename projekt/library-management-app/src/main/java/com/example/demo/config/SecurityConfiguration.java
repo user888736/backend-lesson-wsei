@@ -18,6 +18,19 @@ import com.example.demo.service.UserService;
 public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
 
 	@Autowired
+    public void configureAuth(AuthenticationManagerBuilder auth) throws Exception {
+        auth
+            .inMemoryAuthentication()
+                .withUser("thomas")
+                .password("password")
+                .roles("USER")
+            .and()
+                .withUser("joe")
+                .password("password")
+                .roles("USER");
+    }
+	
+	@Autowired
 	private UserService userService;
 	
 	@Bean
