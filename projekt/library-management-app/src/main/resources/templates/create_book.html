@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html xmlns:th = "http://www.thymeleaf.org">
+<html xmlns:th = "http://www.thymeleaf.org"
+xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity3">
 <head>
 <meta charset="UTF-8">
 <title>Book Management</title>
@@ -27,6 +28,11 @@
       </li>
     </ul>
   </div>
+  <div id="navbar" class="collapse navbar-collapse float-right">
+				<ul class="nav navbar-nav">
+					<li sec:authorize="isAuthenticated()"><a th:href="@{/logout}">Logout</a></li>
+				</ul>
+			</div>
 </nav> 
 
 <br>
